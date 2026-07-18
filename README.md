@@ -90,6 +90,28 @@ Chatbot for Indian income-tax support with role-based access and contextual retr
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### 🥗 Diet Recommendation System
+Rule-based engine generating personalized diet plans from health profile, preferences, and activity level.
+
+![Prolog](https://img.shields.io/badge/-Prolog-FFD43B?style=flat-square&logo=prolog&logoColor=black)
+![Logic Programming](https://img.shields.io/badge/-Logic%20Programming-6E4C13?style=flat-square)
+![Rule Engine](https://img.shields.io/badge/-Rule%20Engine-8E44AD?style=flat-square)
+
+</td>
+<td width="50%">
+
+### 🛒 InsightCart AI
+Scrapes and compares Amazon listings, surfacing product insights through interactive charts.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Data Viz](https://img.shields.io/badge/-Data%20Viz-1ABC9C?style=flat-square)
+
+</td>
+</tr>
 </table>
 
 </div>
