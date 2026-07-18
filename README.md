@@ -123,7 +123,7 @@ Scrapes and compares Amazon listings, surfacing product insights through interac
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=TAMILARASU-A&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=16A34A&icon_color=16A34A" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TAMILARASU-A&theme=radical&hide_border=true&background=0D1117&stroke=16A34A&ring=16A34A&fire=16A34A" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=TAMILARASU-A&theme=radical&hide_border=true&background=0D1117&stroke=16A34A&ring=16A34A&fire=16A34A" height="165"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAMILARASU-A&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=16A34A" height="165"/>
 
